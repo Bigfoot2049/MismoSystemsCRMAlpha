@@ -1,0 +1,1 @@
+# djangoProjectVersion0.1
