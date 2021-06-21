@@ -1,1 +1,1 @@
-# djangoProjectVersion0.1
+# Mismo Systems CRM Using Django & MongoDB
